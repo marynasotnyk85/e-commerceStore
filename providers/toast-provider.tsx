@@ -1,7 +1,7 @@
-//import { Toaster } from "react-hot-toast";
-//<Toaster />;
+import { Toaster } from "react-hot-toast";
+
 const ToastProvider = () => {
-  return <></>;
+  return <Toaster />;
 };
 
 export default ToastProvider;
